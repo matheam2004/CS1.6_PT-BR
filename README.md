@@ -7,20 +7,10 @@ Recomendo vocês usarem o programa Notepad++ para fazer a programação.
 
 Quem for alterar alguma coisa na linha de código põe o seu nome, alguma rede social nos créditos para mais pessoas saberem que você contribuiu para esse grande projeto e não se esqueça de mudar a versão do projeto aqui em baixo da descrição!
 
-Neste pacote vem:
-.:|Tradução 100% PT-BR|:.
-
--> Esta versão do pacote é a .:|V4.1|:.
-
 OBS: Este pacote é 100% compativel 
 para o CS 1.6 Original da Steam.
 Já para o CS 1.6 Pirata talvez poderá haver alguns bugs.
 
-*Créditos*
-
-->Tradução feita por: .:|Mister robot|:.
-Redes Sociais:
-Perfil da steam: steamcommunity.com/id/M1STER_R0B0T/
-Perfil do discord: Mister Robot#2536
+Qualquer dúvida ou problema é so me contactar no Discord "Mister Robot#2536"
 
 Obrigado pela sua atenção!
