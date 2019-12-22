@@ -1,0 +1,18 @@
+﻿"lang"
+{
+"Language" "portuguese" 
+"Tokens"
+{
+"App_SpecialOffers"	"Ofertas especiais"
+"App_Friends"	"Amigos"
+"App_Games"		"Jogar"
+"App_Storefront"	"Procurar jogos"
+"App_Servers"	"Servers"
+"App_Browser"	"Browser da web"
+"Admin_Servers" 	"Meu servidores"
+"App_Account"	"Account"
+"App_Settings"	"Definições"
+"App_Monitor"	"Monitor"
+"App_News"		"Notícias"
+}
+}  
