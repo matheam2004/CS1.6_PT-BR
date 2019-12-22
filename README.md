@@ -1,7 +1,7 @@
 # Tradução PT-BR CS1.6
 Uma nova tradução para o CS1.6
 
-Estou com um projeto para melhorar a tradução brasileira do CS 1.6, já fiz várias alterações, caso alguem queira me ajudar, teste a tradução e caso encotre algum erro, a linha de código estará totalmente aberta para o público.
+Estou com um projeto para melhorar a tradução brasileira do CS 1.6, já fiz várias alterações, caso alguem queira me ajudar teste a tradução e caso encotre algum erro a linha de código estará totalmente aberta para o público.
 
 Recomendo vocês usarem o programa Notepad++ para fazer a programação.
 
