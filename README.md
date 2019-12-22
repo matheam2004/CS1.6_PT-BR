@@ -5,7 +5,7 @@ Estou com um projeto para melhorar a tradução brasileira do CS 1.6, já fiz v�
 
 Recomendo vocês usarem o programa Notepad++ para fazer a programação.
 
-Quem for alterar alguma coisa na linha de código põe o seu nome, alguma rede social nos créditoS para mais pessoas saberem que você contribuiu para esse grande projeto e não se esqueça de mudar a versão do projeto aqui em baixo da descrição!
+Quem for alterar alguma coisa na linha de código põe o seu nome, alguma rede social nos créditos para mais pessoas saberem que você contribuiu para esse grande projeto e não se esqueça de mudar a versão do projeto aqui em baixo da descrição!
 
 Neste pacote vem:
 .:|Tradução 100% PT-BR|:.
